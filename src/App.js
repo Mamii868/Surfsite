@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <Navbar/>
-      <h1>Welcome to Surf and Swim</h1>
+      <h1>Welcome to Garland Aquatics</h1>
     </div>
   );
 }
