@@ -12,6 +12,7 @@ function Navbar() {
                     <li><a href="https://www.garlandtx.gov/154/Aquatics">Surf and Swim</a></li>
                     <li><a href="https://www.garlandtx.gov/154/Aquatics">Bradfield Pool</a></li>
                     <li><a href="https://www.garlandtx.gov/154/Aquatics">Holdford Pool</a></li> 
+                    <i class="fa-solid fa-bars"></i>
                 </ul>
             </nav>
         </div>
